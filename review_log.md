@@ -6,15 +6,17 @@
 
 **Branch:** `feature/final-capstone-review`
 
-**Pull Request:** Pending — add the GitHub PR number or URL after the pull request is created.
+**Pull Request:** #1
 
-**Reviewer:** Pending — replace with the actual reviewer name.
+**Reviewer:** Self-review — Mulu Kadan
+
+**Review type:** Solo-cohort fallback
 
 **Checklist:** `docs/peer_review_checklist.md`
 
 ## Evidence Reviewed
 
-The review should cover:
+The review covered:
 
 - project proposal
 - skill matrix
@@ -73,32 +75,45 @@ Fixture count:
 
 ## Findings
 
-To be completed by the reviewer.
-
-Suggested format:
-
 1. Finding:
-   - Severity:
-   - File:
-   - Outcome:
+   - Severity: Minor
+   - File: `README.md`
+   - Outcome: Confirmed that performance results are clearly labelled as local stub measurements and are not presented as production latency.
 
 2. Finding:
-   - Severity:
-   - File:
-   - Outcome:
+   - Severity: Minor
+   - File: `docs/build_checkpoint.md`
+   - Outcome: Confirmed that live LLM, cloud deployment, production RAG and production MCP are clearly listed as deferred work.
+
+3. Finding:
+   - Severity: Minor
+   - File: `tests/test_security_smoke.py`
+   - Outcome: Confirmed that the security smoke includes real redaction checks for Bearer tokens and numeric identifiers.
+
+4. Finding:
+   - Severity: Minor
+   - File: `fixtures/README.md`
+   - Outcome: Confirmed that the fixture contains approximately 300 synthetic rows, no production scrape, and no mixing of SokoniHub marketplace fixtures with AfyaPlus clinical fixtures.
+
+5. Finding:
+   - Severity: Minor
+   - File: `docs/presentation_outline.md`
+   - Outcome: Confirmed that the presentation evidence matches the tested implementation and does not overclaim live production components.
 
 ## Review Outcome
 
-Pending.
-
-Replace this section after the actual review with one of:
-
-- Approved
-- Approved with minor follow-up
-- Changes requested
+Approved with minor follow-up.
 
 ## Follow-up Actions
 
-To be completed after review.
+- Confirm GitHub CI is green after the latest push.
+- Keep `review_log.md` and the presentation artefacts in the final feature-branch commit.
+- Run the final secret scan before merge.
+- Verify `docs/presentation.pdf` is present in the repository.
+- Merge Pull Request #1 into `main` after all required checks are green.
 
-Do not mark the review complete until the reviewer name, PR reference, findings and outcome are recorded.
+## Final Review Note
+
+The capstone evidence is consistent with the current implementation.
+
+The review confirms that the project demonstrates a working local teaching system while clearly distinguishing implemented stub components from deferred production capabilities.
