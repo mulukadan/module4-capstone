@@ -1,0 +1,10 @@
+{"id":"GOLD-001","message":"I have fever for two days","expected_route":"clinical"}
+{"id":"GOLD-002","message":"I have a severe headache","expected_route":"clinical"}
+{"id":"GOLD-003","message":"I have been coughing since yesterday","expected_route":"clinical"}
+{"id":"GOLD-004","message":"I cannot breathe","expected_route":"emergency"}
+{"id":"GOLD-005","message":"I have chest pain","expected_route":"emergency"}
+{"id":"GOLD-006","message":"Patient is unconscious","expected_route":"emergency"}
+{"id":"GOLD-007","message":"Do we have amoxicillin in stock?","expected_route":"logistics"}
+{"id":"GOLD-008","message":"Check ORS stock","expected_route":"logistics"}
+{"id":"GOLD-009","message":"What malaria kits are in stock?","expected_route":"logistics"}
+{"id":"GOLD-010","message":"I feel tired today","expected_route":"clinical"}

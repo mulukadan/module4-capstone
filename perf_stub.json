@@ -1,0 +1,12 @@
+{
+  "mode": "stub",
+  "component": "agents.router.route_message",
+  "iterations": 1000,
+  "mean_ms": 0.001053,
+  "median_ms": 0.001,
+  "p95_ms": 0.0011,
+  "max_ms": 0.0065,
+  "network_calls": 0,
+  "model_calls": 0,
+  "note": "Local deterministic stub measurement only. Not a production latency claim."
+}

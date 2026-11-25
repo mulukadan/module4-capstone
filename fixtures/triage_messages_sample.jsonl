@@ -1,0 +1,300 @@
+{"fixture_id": "TRIAGE-001", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-002", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-003", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-004", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-005", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-006", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-007", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-008", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-009", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-010", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-011", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-012", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-013", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-014", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-015", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-016", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-017", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-018", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-019", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-020", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-021", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-022", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-023", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-024", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-025", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-026", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-027", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-028", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-029", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-030", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-031", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-032", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-033", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-034", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-035", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-036", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-037", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-038", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-039", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-040", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-041", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-042", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-043", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-044", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-045", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-046", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-047", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-048", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-049", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-050", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-051", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-052", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-053", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-054", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-055", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-056", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-057", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-058", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-059", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-060", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-061", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-062", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-063", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-064", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-065", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-066", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-067", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-068", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-069", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-070", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-071", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-072", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-073", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-074", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-075", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-076", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-077", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-078", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-079", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-080", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-081", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-082", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-083", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-084", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-085", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-086", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-087", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-088", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-089", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-090", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-091", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-092", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-093", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-094", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-095", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-096", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-097", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-098", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-099", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-100", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-101", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-102", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-103", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-104", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-105", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-106", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-107", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-108", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-109", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-110", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-111", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-112", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-113", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-114", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-115", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-116", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-117", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-118", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-119", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-120", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-121", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-122", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-123", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-124", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-125", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-126", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-127", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-128", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-129", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-130", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-131", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-132", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-133", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-134", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-135", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-136", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-137", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-138", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-139", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-140", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-141", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-142", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-143", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-144", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-145", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-146", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-147", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-148", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-149", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-150", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-151", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-152", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-153", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-154", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-155", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-156", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-157", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-158", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-159", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-160", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-161", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-162", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-163", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-164", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-165", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-166", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-167", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-168", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-169", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-170", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-171", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-172", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-173", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-174", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-175", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-176", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-177", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-178", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-179", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-180", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-181", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-182", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-183", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-184", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-185", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-186", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-187", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-188", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-189", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-190", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-191", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-192", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-193", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-194", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-195", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-196", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-197", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-198", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-199", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-200", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-201", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-202", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-203", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-204", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-205", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-206", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-207", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-208", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-209", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-210", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-211", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-212", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-213", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-214", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-215", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-216", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-217", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-218", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-219", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-220", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-221", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-222", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-223", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-224", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-225", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-226", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-227", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-228", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-229", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-230", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-231", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-232", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-233", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-234", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-235", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-236", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-237", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-238", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-239", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-240", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-241", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-242", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-243", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-244", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-245", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-246", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-247", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-248", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-249", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-250", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-251", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-252", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-253", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-254", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-255", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-256", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-257", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-258", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-259", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-260", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-261", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-262", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-263", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-264", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-265", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-266", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-267", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-268", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-269", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-270", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-271", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-272", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-273", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-274", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-275", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-276", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-277", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-278", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-279", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-280", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-281", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-282", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-283", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-284", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-285", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-286", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-287", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-288", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-289", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-290", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-291", "message": "I have fever for two days", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-292", "message": "I have a severe headache", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-293", "message": "I have been coughing since yesterday", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-294", "message": "I have diarrhea and feel weak", "expected_route": "clinical", "synthetic": true}
+{"fixture_id": "TRIAGE-295", "message": "I cannot breathe", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-296", "message": "I have chest pain", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-297", "message": "Patient is unconscious", "expected_route": "emergency", "synthetic": true}
+{"fixture_id": "TRIAGE-298", "message": "Do we have amoxicillin in stock?", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-299", "message": "Check ORS stock", "expected_route": "logistics", "synthetic": true}
+{"fixture_id": "TRIAGE-300", "message": "What malaria kits are in stock?", "expected_route": "logistics", "synthetic": true}

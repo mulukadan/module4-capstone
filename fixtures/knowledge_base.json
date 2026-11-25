@@ -1,0 +1,27 @@
+[
+    {
+        "id": "KB-001",
+        "topic": "fever",
+        "text": "Fever may require clinical review, especially if it is persistent, severe, or accompanied by worsening symptoms."
+    },
+    {
+        "id": "KB-002",
+        "topic": "headache",
+        "text": "A mild headache can have many causes. Seek clinical review if the headache is severe, persistent, sudden, or associated with other concerning symptoms."
+    },
+    {
+        "id": "KB-003",
+        "topic": "diarrhea",
+        "text": "Diarrhea can cause dehydration. Oral rehydration solution may help replace lost fluids while clinical review should be sought if symptoms are severe or persistent."
+    },
+    {
+        "id": "KB-004",
+        "topic": "cough",
+        "text": "A persistent cough should be clinically reviewed, especially when accompanied by fever, breathing difficulty, chest pain, or worsening symptoms."
+    },
+    {
+        "id": "KB-005",
+        "topic": "malaria",
+        "text": "Possible malaria symptoms require appropriate clinical assessment and testing before treatment decisions are made."
+    }
+]

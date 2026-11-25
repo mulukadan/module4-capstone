@@ -1,0 +1,66 @@
+{
+    "project": "AfyaPlus Module 4 Capstone",
+    "path": "recommended-afyaplus",
+    "artifacts": {
+        "proposal": "proposal.md",
+        "skill_matrix": "skill_matrix.md",
+        "api": {
+            "service": "api/main.py",
+            "health_endpoint": "/health",
+            "triage_endpoint": "/triage"
+        },
+        "router": {
+            "implementation": "agents/router.py",
+            "unit_test": "tests/unit/test_router.py"
+        },
+        "rag": {
+            "implementation": "agents/retrieval.py",
+            "fixture": "fixtures/knowledge_base.json"
+        },
+        "mcp": {
+            "implementation": "agents/logistics_stub.py",
+            "tool": "check_stock"
+        },
+        "prompt_pin": {
+            "prompt": "prompts/triage_system_v1.2.0.txt",
+            "pin": "prompts/pin.json",
+            "test": "tests/unit/test_pin_fields.py"
+        },
+        "evaluation": {
+            "golden_set": "evals/golden.jsonl",
+            "script": "evals/run_eval.py"
+        },
+        "security": {
+            "smoke_test": "tests/test_security_smoke.py",
+            "redaction": "agents/security.py"
+        },
+        "fixtures": {
+            "triage_messages": "fixtures/triage_messages_sample.jsonl",
+            "readme": "fixtures/README.md",
+            "target_rows": 300,
+            "production_scrape": false
+        },
+        "performance": {
+            "measurement_script": "scripts/measure_perf.py",
+            "result": "perf_stub.json"
+        },
+        "ci": {
+            "workflow": ".github/workflows/ci.yml"
+        },
+        "documentation": {
+            "architecture": "docs/architecture.md",
+            "deployment": "docs/deployment.md",
+            "cost_analysis": "docs/cost_analysis.md",
+            "user_guide": "docs/user_guide.md",
+            "build_checkpoint": "docs/build_checkpoint.md"
+        },
+        "review": {
+            "checklist": "docs/peer_review_checklist.md",
+            "log": "review_log.md"
+        },
+        "presentation": {
+            "outline": "docs/presentation_outline.md",
+            "pdf": "docs/presentation.pdf"
+        }
+    }
+}

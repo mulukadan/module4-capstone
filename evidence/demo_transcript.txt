@@ -1,0 +1,43 @@
+======================================================================
+AFYAPLUS MODULE 4 CAPSTONE DEMO
+======================================================================
+
+1. PROMPT PIN
+Version: 1.2.0
+SHA match: True
+
+2. SYNTHETIC FIXTURES
+Rows: 300
+Production scrape: False
+
+3. HEALTH
+HTTP status: 200
+Mode: stub
+Prompt version: 1.2.0
+
+4. CLINICAL + RAG
+HTTP status: 200
+Route: clinical
+Retrieved topic: fever
+
+5. LOGISTICS TOOL
+HTTP status: 200
+Route: logistics
+Tool: check_stock
+Quantity: 40
+
+6. EMERGENCY PATH
+Route: emergency
+Action: urgent-human-review
+
+7. SECURITY REDACTION
+Authorization: [REDACTED_TOKEN] patient_id=[REDACTED_ID] symptoms=fever
+Redaction passed: True
+
+8. GOLDEN EVAL
+Score: 10/10 = 1.00
+Threshold: 0.90
+
+======================================================================
+MINIMUM WORKING PRODUCT: PASSED
+======================================================================

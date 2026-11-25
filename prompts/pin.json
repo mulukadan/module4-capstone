@@ -1,0 +1,6 @@
+{
+  "prompt_file": "prompts/triage_system_v1.2.0.txt",
+  "prompt_version": "1.2.0",
+  "sha256": "820bcfe8c09936826546d5a114c52a7e6243dbded57c98fb6b0b560a565a47d2",
+  "normalization": "lf"
+}

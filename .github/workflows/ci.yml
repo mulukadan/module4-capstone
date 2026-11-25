@@ -1,0 +1,94 @@
+name: Module 4 Capstone CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+
+  unit-and-security:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Check prompt pin
+        run: |
+          python scripts/check_prompt_pin.py
+
+      - name: Run default tests
+        run: |
+          pytest -q
+
+      - name: Run security smoke
+        run: |
+          pytest -q tests/test_security_smoke.py
+
+      - name: Run golden eval
+        run: |
+          python evals/run_eval.py
+
+
+  integration:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run integration tests
+        run: |
+          pytest -q -m integration
+
+
+  perf:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Measure stub performance
+        run: |
+          python scripts/measure_perf.py
+
+      - name: Run perf tests
+        run: |
+          pytest -q -m perf
